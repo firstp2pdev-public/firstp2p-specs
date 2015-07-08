@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.version  = '1.5.1'
   s.summary  = 'GC\'s fork of a Very High Performance Objective-C JSON Library.'
   s.homepage = 'https://github.com/firstp2pdev-public/JSONKit'
-  s.license  = { :type => 'BSD / Apache License, Version 2.0', :file => 'LICENCE' }
+  s.license  = { :type => 'BSD / Apache License, Version 2.0', :file => 'LICENSE' }
   s.author   = 'John Engelhart'
   s.source   = { :git => 'https://github.com/firstp2pdev-public/JSONKit.git', :tag => '1.5.1' }
 
